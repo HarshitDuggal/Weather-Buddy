@@ -1,0 +1,123 @@
+.main{
+    margin: 0%;
+    padding: 0%;
+    /* display: flex; */
+}
+.Heading{
+    font-family: serif;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    /* flex-grow: 12; */
+}
+/* h3{
+
+    text-align: center;
+    font-family: serif;
+    font-size: x-large;
+    font-weight: lighter;
+} */
+.imput{
+    margin-left: 38rem;
+    font-family: serif;
+}
+
+.imput h3{
+    font-size: x-large;
+    /* margin-right: 2rem; */
+}
+
+.check{
+    padding: 0.5rem;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    /* margin-top: 4rem; */
+}
+
+.type{
+    /* margin-top: 2rem; */
+    padding: .5rem;
+    /* margin-bottom: 2rem; */
+    /* margin-right: 3rem; */
+    /* margin-top: 2rem; */
+}
+
+.Data h4{
+    font-style: italic;
+    font-family: serif;
+    font-size: x-large;
+    margin-left: 4rem;
+    background-color: white;
+    opacity: 0.8;
+    width: 16rem;
+    padding: 0.05rem;
+    text-align: center;
+}
+
+.Data2 h4{
+    font-style: italic;
+    font-family: serif;
+    font-size: x-large;
+    margin-left: 76rem;
+    margin-top: -9rem;
+    padding: -5rem;
+    background-color: white;
+    opacity: 0.8;
+    width: 12rem;
+    text-align: center;
+}
+
+.bottom h4{
+    font-style: italic;
+    font-family: serif;
+    font-size: large;
+    margin-left: 11.5rem;
+    text-align: center;
+    float: left;
+    margin-top: 9rem;
+    background-color: white;
+    opacity: 0.8;
+    width: 11rem;
+    text-align: center;
+}
+.Moon h4{
+    font-size: large;
+    font-family: serif;
+    font-style: italic;
+    /* font-weight: 900; */
+    margin-top: 15rem;
+    margin-left: 41.7rem;
+    background-color: white;
+    opacity: 0.8;
+    width: 17rem;
+    text-align: center;
+}
+
+button{
+    border-radius: 2%;
+    color: brown;
+    background-color: blanchedalmond;
+}
+/* .Image{
+    position: absolute;
+    margin-top: -42rem;
+    opacity: 0.8;
+    height: 44.44rem ;
+    width: 96rem;
+} */
+
+body{
+    background-image: url('https://images.unsplash.com/photo-1580193769210-b8d1c049a7d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+/* .Data{
+    background-color: white;
+    opacity: 0.8;
+    width: 25rem;
+    height: 18rem;
+    margin-left: 2rem;
+
+} */
